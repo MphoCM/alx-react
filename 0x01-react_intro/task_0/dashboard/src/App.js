@@ -6,12 +6,27 @@ import React from 'react';
 function App() {
     // Return JSX elements representing a simple HTML structure
     return (
-        <div>
-            {/* Render a heading with the text "Hello, World!" */}
-            <h1>Hello, World!</h1>
-            {/* Render a paragraph with the text "This is a JSX element." */}
-            <p>This is a JSX element.</p>
+        <div> className=App>
+          <header className="App-header">
+            <img src="/path/to/holberton-logo.png" alt="Holberton Logo" />
+            <h1>School dashboard</h1>
+</header>
+<body className="App-body">
+<div>
+  <p>Login to access the full dashboard</p>
+  </div>
+  <body>
+    <footer className="App-footer">
+      <div>
+        <p>Login toaccess the full dashboard</p>
         </div>
+        </body>
+        <footer className="App-footer".
+        <div>
+        <p>Copyright 2020 - Holberton School</p>
+        </div>
+    </footer>
+    </div>
     );
 }
 
