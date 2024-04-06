@@ -14,10 +14,12 @@ function App() {
 	  <div className="App-body">
 	    <p>Login to access the full dashborad</p>
 	</div>
+	</body>
+
 	<footer className="App-footer">
 	    <p>opyright 2020 - Holberton School</p>
 	</footer>    
-        </div>
+      </div>
     );
 }
 
