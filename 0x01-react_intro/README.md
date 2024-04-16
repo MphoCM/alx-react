@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x01. React intro
 
 ## Description:bulb:
@@ -10,3 +11,6 @@ It doesn't matter where you are, I will find you and I will render you
 - How to use the React Developer Tools to debug your code
 - How to use Enzyme's Shadow rendering to test your application
 - How to use React with Webpack & Babel
+=======
+testing
+>>>>>>> e5920635397b9422bb5b24f71cbf6e11a4e2552d
